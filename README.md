@@ -1,4 +1,5 @@
 # 100 Descriptive Essay Topics
+By ChatGPT
 
 1. **The Beauty of a Sunrise**
    - Describe the colors, sounds, and feelings associated with watching the sunrise.
